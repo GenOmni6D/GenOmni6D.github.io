@@ -1,16 +1,20 @@
-# Nerfies
+# TacGraspNets
 
-This is the repository that contains source code for the [Nerfies website](https://nerfies.github.io).
+This is the repository that contains source code for TacGraspNets GNN model on tactile sensors(https://tacgraspnets.github.io).
 
-If you find Nerfies useful for your work please cite:
+If you find TacGraspNets useful for your work please cite:
 ```
-@article{park2021nerfies
-  author    = {Park, Keunhong and Sinha, Utkarsh and Barron, Jonathan T. and Bouaziz, Sofien and Goldman, Dan B and Seitz, Steven M. and Martin-Brualla, Ricardo},
-  title     = {Nerfies: Deformable Neural Radiance Fields},
-  journal   = {ICCV},
-  year      = {2021},
+@inproceedings{
+	duret2025realtime,
+	title={Real-Time Simulation of Deformable Tactile Sensors in Robotic Grasping using Graph Neural Networks},
+	author={Guillaume Duret and Danylo Mazurak and Frederik heller and Florence Zara and Jan Peters and Liming Chen},
+	booktitle={IROS 2025 Workshop on Tactile Sensing Toward Robot Dexterity and Intelligence},
+	year={2025},
+	url={https://openreview.net/forum?id=9lTIfriAjP}
 }
 ```
 
 # Website License
-<a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-sa/4.0/88x31.png" /></a><br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribution-ShareAlike 4.0 International License</a>.
+This website is licensed under a Creative Commons Attribution-ShareAlike 4.0 International License. This webpage template is from Nerfies. We sincerely thank Keunhong Park for developing and open-sourcing this template.
+
+
